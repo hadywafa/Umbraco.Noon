@@ -14,13 +14,15 @@ This demo showcases a fully functional online store with a customizable storefro
 
 ### 🏠 Storefront
 
-![Storefront Screenshot](images/project-overview.gif)
+<div style="text-align: center;">
+    <img src="images/project-overview.gif" style="border-radius: 20px; width: 100%;" alt="Storefront Screenshot" />
+</div>
 
 ### ⚙️ Admin Dashboard
 
-![Backoffice Screenshot](images/cms.gif)
-
-> _Place your screenshots in a `/screenshots` folder in the project root._
+<div style="text-align: center;">
+    <img src="images/cms.gif" style="border-radius: 20px; width: 100%;" alt="Backoffice Screenshot" />
+</div>
 
 ---
 
