@@ -14,11 +14,11 @@ This demo showcases a fully functional online store with a customizable storefro
 
 ### 🏠 Storefront
 
-![Storefront Screenshot](screenshots/storefront.png)
+![Storefront Screenshot](images/project-overview.gif)
 
 ### ⚙️ Admin Dashboard
 
-![Backoffice Screenshot](screenshots/backoffice.png)
+![Backoffice Screenshot](images/cms.gif)
 
 > _Place your screenshots in a `/screenshots` folder in the project root._
 
